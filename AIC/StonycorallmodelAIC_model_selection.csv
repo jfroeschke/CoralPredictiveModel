@@ -1,0 +1,9 @@
+Points,ASCII file,Log Likelihood,Parameters,Sample Size,AIC score,AICc score,BIC score
+X:\Data_John\coral\CoralPredictiveModel\csv\Stonycoral.csv,X:\Data_John\coral\CoralPredictiveModel\stonycoralRaw\oc05\Stonycoral.asc,-20674.6573715794,-4,1571,41341.3147431589,41341.3299909353,41319.8768726059
+X:\Data_John\coral\CoralPredictiveModel\csv\Stonycoral.csv,X:\Data_John\coral\CoralPredictiveModel\stonycoralRaw\oc10\Stonycoral.asc,-21016.8209975132,-4,1571,42025.6419950263,42025.6572428027,42004.2041244733
+X:\Data_John\coral\CoralPredictiveModel\csv\Stonycoral.csv,X:\Data_John\coral\CoralPredictiveModel\stonycoralRaw\oc15\Stonycoral.asc,-21261.6316721627,-4,1571,42515.2633443255,42515.2785921018,42493.8254737724
+X:\Data_John\coral\CoralPredictiveModel\csv\Stonycoral.csv,X:\Data_John\coral\CoralPredictiveModel\stonycoralRaw\oc20\Stonycoral.asc,-21414.9094985888,-4,1571,42821.8189971776,42821.834244954,42800.3811266246
+X:\Data_John\coral\CoralPredictiveModel\csv\Stonycoral.csv,X:\Data_John\coral\CoralPredictiveModel\stonycoralRaw\oc25\Stonycoral.asc,-21408.9409969229,-4,1571,42809.8819938457,42809.8972416221,42788.4441232927
+X:\Data_John\coral\CoralPredictiveModel\csv\Stonycoral.csv,X:\Data_John\coral\CoralPredictiveModel\stonycoralRaw\oc30\Stonycoral.asc,-21442.073799532,-4,1571,42876.147599064,42876.1628468404,42854.709728511
+X:\Data_John\coral\CoralPredictiveModel\csv\Stonycoral.csv,X:\Data_John\coral\CoralPredictiveModel\stonycoralRaw\oc35\Stonycoral.asc,-21479.8090903136,-4,1571,42951.6181806272,42951.6334284036,42930.1803100742
+X:\Data_John\coral\CoralPredictiveModel\csv\Stonycoral.csv,X:\Data_John\coral\CoralPredictiveModel\stonycoralRaw\oc40\Stonycoral.asc,-21496.0227958352,-4,1571,42984.0455916704,42984.0608394468,42962.6077211174

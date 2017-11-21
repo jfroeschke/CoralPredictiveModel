@@ -1,0 +1,3 @@
+Points,ASCII file,Log Likelihood,Parameters,Sample Size,AIC score,AICc score,BIC score
+X:\Data_John\coral\CoralPredictiveModel\csv\BlackCoral.csv,X:\Data_John\coral\CoralPredictiveModel\blackCoraloutRaw\bc05\BlackCoral.asc,-16425.7428332233,198,1257,33247.4856664467,33321.9695983937,34264.5093417475
+X:\Data_John\coral\CoralPredictiveModel\csv\BlackCoral.csv,X:\Data_John\coral\CoralPredictiveModel\blackCoraloutRaw\bc10\BlackCoral.asc,-16790.5672700631,139,1257,33859.1345401261,33893.9778704753,34573.1057061202

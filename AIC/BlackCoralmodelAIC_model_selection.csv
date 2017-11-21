@@ -1,0 +1,9 @@
+Points,ASCII file,Log Likelihood,Parameters,Sample Size,AIC score,AICc score,BIC score
+X:\Data_John\coral\CoralPredictiveModel\csv\BlackCoral.csv,X:\Data_John\coral\CoralPredictiveModel\blackCoraloutRaw\bc05\BlackCoral.asc,-27060.9680598181,157,2223,54435.9361196363,54459.9613012343,55331.8743471286
+X:\Data_John\coral\CoralPredictiveModel\csv\BlackCoral.csv,X:\Data_John\coral\CoralPredictiveModel\blackCoraloutRaw\bc10\BlackCoral.asc,-27742.4439033338,149,2223,55782.8878066676,55804.4507589108,56633.1731308483
+X:\Data_John\coral\CoralPredictiveModel\csv\BlackCoral.csv,X:\Data_John\coral\CoralPredictiveModel\blackCoraloutRaw\bc15\BlackCoral.asc,-28203.9036666005,129,2223,56665.8073332011,56681.8321779216,57401.9603991025
+X:\Data_John\coral\CoralPredictiveModel\csv\BlackCoral.csv,X:\Data_John\coral\CoralPredictiveModel\blackCoraloutRaw\bc20\BlackCoral.asc,-28502.2507209792,101,2223,57206.5014419583,57216.2157276726,57782.8693462687
+X:\Data_John\coral\CoralPredictiveModel\csv\BlackCoral.csv,X:\Data_John\coral\CoralPredictiveModel\blackCoraloutRaw\bc25\BlackCoral.asc,-28705.8199458272,96,2223,57603.6398916544,57612.4000045425,58151.474731395
+X:\Data_John\coral\CoralPredictiveModel\csv\BlackCoral.csv,X:\Data_John\coral\CoralPredictiveModel\blackCoraloutRaw\bc30\BlackCoral.asc,-28776.4213039871,90,2223,57732.8426079741,57740.5255348034,58246.4377702309
+X:\Data_John\coral\CoralPredictiveModel\csv\BlackCoral.csv,X:\Data_John\coral\CoralPredictiveModel\blackCoraloutRaw\bc35\BlackCoral.asc,-28894.6592353514,85,2223,57959.3184707029,57966.1598371044,58444.3805683898
+X:\Data_John\coral\CoralPredictiveModel\csv\BlackCoral.csv,X:\Data_John\coral\CoralPredictiveModel\blackCoraloutRaw\bc40\BlackCoral.asc,-29014.4094555325,71,2223,58170.818911065,58175.5720491403,58575.9884279564

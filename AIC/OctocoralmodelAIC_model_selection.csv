@@ -1,0 +1,9 @@
+Points,ASCII file,Log Likelihood,Parameters,Sample Size,AIC score,AICc score,BIC score
+X:\Data_John\coral\CoralPredictiveModel\csv\Octocoral.csv,X:\Data_John\coral\CoralPredictiveModel\octocoralRaw\oc05\Octocoral.asc,-81730.3761611287,236,6371,163932.752322257,163950.989035658,165527.997088677
+X:\Data_John\coral\CoralPredictiveModel\csv\Octocoral.csv,X:\Data_John\coral\CoralPredictiveModel\octocoralRaw\oc10\Octocoral.asc,-82905.3285584025,161,6371,166132.657116805,166141.05846968,167220.938504066
+X:\Data_John\coral\CoralPredictiveModel\csv\Octocoral.csv,X:\Data_John\coral\CoralPredictiveModel\octocoralRaw\oc15\Octocoral.asc,-83896.6920137408,135,6371,168063.384027482,168069.273361884,168975.918109967
+X:\Data_John\coral\CoralPredictiveModel\csv\Octocoral.csv,X:\Data_John\coral\CoralPredictiveModel\octocoralRaw\oc20\Octocoral.asc,-84627.1731070894,111,6371,169476.346214179,169480.318733751,170226.652015334
+X:\Data_John\coral\CoralPredictiveModel\csv\Octocoral.csv,X:\Data_John\coral\CoralPredictiveModel\octocoralRaw\oc25\Octocoral.asc,-85076.2410328869,93,6371,170338.482065774,170341.267472815,170967.116655931
+X:\Data_John\coral\CoralPredictiveModel\csv\Octocoral.csv,X:\Data_John\coral\CoralPredictiveModel\octocoralRaw\oc30\Octocoral.asc,-85134.7766316865,88,6371,170445.553263373,170448.046736789,171040.390294919
+X:\Data_John\coral\CoralPredictiveModel\csv\Octocoral.csv,X:\Data_John\coral\CoralPredictiveModel\octocoralRaw\oc35\Octocoral.asc,-85319.4174684666,-4,6371,170630.834936933,170630.83870223,170603.796890045
+X:\Data_John\coral\CoralPredictiveModel\csv\Octocoral.csv,X:\Data_John\coral\CoralPredictiveModel\octocoralRaw\oc40\Octocoral.asc,-85346.8873946593,90,6371,170873.774789319,170876.383069573,171482.130844309
